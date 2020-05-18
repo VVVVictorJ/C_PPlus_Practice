@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11   CMakeFiles/test.dir/src/test.cpp.o  -o ../../bin/test   -L/home/hellblazer/c_pplus_pratice/test-multi-file/build/lib  -Wl,-rpath,/home/hellblazer/c_pplus_pratice/test-multi-file/build/lib -Wl,-Bstatic -lfoo -Wl,-Bdynamic 

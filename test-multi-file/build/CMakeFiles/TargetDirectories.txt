@@ -1,0 +1,11 @@
+/home/hellblazer/c_pplus_pratice/test-multi-file/build/CMakeFiles/rebuild_cache.dir
+/home/hellblazer/c_pplus_pratice/test-multi-file/build/CMakeFiles/edit_cache.dir
+/home/hellblazer/c_pplus_pratice/test-multi-file/build/src/CMakeFiles/rebuild_cache.dir
+/home/hellblazer/c_pplus_pratice/test-multi-file/build/src/CMakeFiles/edit_cache.dir
+/home/hellblazer/c_pplus_pratice/test-multi-file/build/src/lib/CMakeFiles/edit_cache.dir
+/home/hellblazer/c_pplus_pratice/test-multi-file/build/src/lib/CMakeFiles/rebuild_cache.dir
+/home/hellblazer/c_pplus_pratice/test-multi-file/build/src/lib/CMakeFiles/foo_static.dir
+/home/hellblazer/c_pplus_pratice/test-multi-file/build/src/lib/CMakeFiles/foo.dir
+/home/hellblazer/c_pplus_pratice/test-multi-file/build/src/test/CMakeFiles/rebuild_cache.dir
+/home/hellblazer/c_pplus_pratice/test-multi-file/build/src/test/CMakeFiles/edit_cache.dir
+/home/hellblazer/c_pplus_pratice/test-multi-file/build/src/test/CMakeFiles/test.dir

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/lib/include/foo.h
+iostream
+-
+
+/home/hellblazer/c_pplus_pratice/test-multi-file/src/test/src/test.cpp
+foo.h
+-
+iostream
+-
+
